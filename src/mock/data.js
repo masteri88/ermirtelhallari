@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Welcome',
   name: 'Ermir Telhallari',
   subtitle: '',
-  cta: 'test',
+  cta: '',
 };
 
 // ABOUT DATA
