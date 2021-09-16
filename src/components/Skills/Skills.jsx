@@ -5,8 +5,8 @@ import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import PortfolioContext from '../../context/context';
 
-const Skills = () => {
-  const { skills } = useContext(PortfolioContext);
+const About = () => {
+  const { about } = useContext(PortfolioContext);
   const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
 
   const [isDesktop, setIsDesktop] = useState(false);
@@ -23,7 +23,7 @@ const Skills = () => {
   }, []);
 
   return (
-    <section id="about">
+    <section id="skills">
       <Container>
         <Title title="About Me" />
         <Row className="about-wrapper">
