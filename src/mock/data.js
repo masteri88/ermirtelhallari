@@ -37,19 +37,19 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'cPortfolio.jpg',
+    title: 'CPortfolio',
+    info: 'Clean Design Parallax Scrolling Bootstrap 3 HTML5/CSS3 Javascript Table Compatibility Font Awesome',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'AENeon.jpg',
+    title: 'AENeon - Modern Design',
+    info: 'AEneon is a simple but effective template. designed to revolutionise modern day web surfing. Easy to navigate but effective in its purpose. Developed through HTML5, CSS3 and bootstrap, the colours enlighten audiences.',
+    info2: 'Clean Design, Parallax Scrolling, Bootstrap 3.1, HTML5/CSS3, Javascript, Table Compatibility, Font Awesome and Youtube Video Background Free zozo Tabs free Revolution Slider',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
