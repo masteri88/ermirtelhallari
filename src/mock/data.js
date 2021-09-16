@@ -24,6 +24,15 @@ export const aboutData = {
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
+// SKILLS DATA
+export const skillsData = {
+  img: 'eri.jpg',
+  paragraphOne: 'Resourceful, flexible, innovative, and professional project manager with considerable knowledge of the construction industry and full stack applications. ',
+  paragraphTwo: 'I have proven my expertise and passion with real world tech related projects, such as designing full stack IPTV android applications, bespoke websites, ecommerce platforms and SEO optimizations. Through these projects Ive worked with over 30 businesses and have fostered great relations with a wide variety client.',
+  paragraphThree: 'Moreover, I possess a wide variety of testing experience both on web and mobile platforms. I have established a deep competency in the technologies listed below over the last several years and an even deeper passion for all things software related',
+  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+};
+
 // PROJECTS DATA
 export const projectsData = [
   {
