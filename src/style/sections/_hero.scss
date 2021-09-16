@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   border-bottom: 0px;
-  background: $white-color;
+  background-image: linear-gradient(126deg,#14c6cc 0%,#485fe0 52%,#1d0071 100%);
   font-weight: 400;
   color: $dark-blue-text;
   padding: 0rem 5.6rem;
@@ -18,7 +18,6 @@
   // If you want to set a background image on the hero section, uncomment these with yout custom image
 
   background: url("https://www.mwaretv.com/wp-content/themes/mwaretv/dist/images/poly-new.jpg");
-  background-image: linear-gradient(126deg,#14c6cc 0%,#485fe0 52%,#1d0071 100%);
   background-position: center;
   background-size: cover; 
 
