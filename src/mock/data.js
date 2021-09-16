@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Welcome',
   name: 'Ermir Telhallari',
   subtitle: '',
-  cta: '',
+  cta: 'test',
 };
 
 // ABOUT DATA
@@ -69,11 +69,6 @@ export const footerData = {
       id: nanoid(),
       name: 'facebook',
       url: 'https://www.facebook.com/Ermir.Telhallari',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
     },
     {
       id: nanoid(),
