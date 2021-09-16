@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'pro1.jpg',
-    title: '',
+    title: 'thewebfuel.co.uk',
     info: '',
     info2: '',
     url: '',
@@ -67,8 +67,8 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
+      name: 'facebook',
+      url: 'https://www.facebook.com/Ermir.Telhallari',
     },
     {
       id: nanoid(),
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/eri-telhallari',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/masteri88',
     },
   ],
 };
